@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Flight Dynamics
+
+**Embryo Flight Dynamics** is Embryo-Zero's fork of [JSBSim](https://github.com/JSBSim-Team/jsbsim), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![C/C++ build](https://github.com/JSBSim-Team/jsbsim/actions/workflows/cpp-python-build.yml/badge.svg)](https://github.com/JSBSim-Team/jsbsim/actions/workflows/cpp-python-build.yml)
 [![PyPI](https://img.shields.io/pypi/v/jsbsim)](https://pypi.org/project/JSBSim)
 [![Conda (channel only)](https://img.shields.io/conda/vn/conda-forge/jsbsim)](https://anaconda.org/conda-forge/jsbsim)
